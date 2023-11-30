@@ -1,4 +1,3 @@
-import { useState } from "react";
 import cctvAction from "./actions/cctv.ts?raw";
 
 console.log(cctvAction);
